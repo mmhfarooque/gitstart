@@ -4,4 +4,4 @@
 
 phpinfo();
 
-// comment 
+echo;
